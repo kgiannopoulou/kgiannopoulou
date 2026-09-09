@@ -12,5 +12,4 @@ Full-stack developer working with **Next.js, TypeScript, Express, and PostgreSQL
 ## 📫 Reach me
 
 - LinkedIn: [konstantina-giannopoulou](https://www.linkedin.com/in/konstantina-giannopoulou-464668281)
-- Portfolio: [add your live link here]
-- Email: [add if you want it public]
+
