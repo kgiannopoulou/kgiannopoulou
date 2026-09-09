@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Next.js+%7C+TypeScript+%7C+PostgreSQL;Turning+real+support+problems+into+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Next.js+%7C+TypeScript+%7C+PostgreSQL;Turning+real+problems+into+software" alt="Typing SVG" />
 
 </div>
 
@@ -51,17 +51,6 @@ Responsive personal portfolio site, designed, built, and deployed from scratch �
 **[🐺 One Night Ultimate Werewolf (Greek)](https://github.com/kgiannopoulou/One-Night-Ultimate-Werewolf-Greek-)**
 A Greek-language companion app for the party game — pass-and-play with a Greek narrator that runs the whole night phase aloud. *(For fun — built for friends who don't play in English.)*
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=A855F7)
-
-<br>
-
-### 🟣 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kgiannopoulou&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=E5E5E5&icon_color=A855F7" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgiannopoulou&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=E5E5E5" alt="Top Languages" height="165" />
-
-</div>
 
 <br>
 
