@@ -41,12 +41,6 @@ Guided WiFi diagnostic tool built from real ISP support experience. The branchin
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=A855F7)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=A855F7)
 
-**[🥕 Scrap Kitchen](https://github.com/kgiannopoulou/scrap-kitchen)**
-Ingredient-based recipe finder — add what's in your kitchen and dietary restrictions, get recipes ranked by overlap, with AI-assisted suggestions when the built-in library comes up short.
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=A855F7)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=A855F7)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=A855F7)
-
 **[🐺 One Night Ultimate Werewolf (Greek)](https://github.com/kgiannopoulou/One-Night-Ultimate-Werewolf-Greek-)**
 A Greek-language companion app for the party game — pass-and-play with a Greek narrator that runs the whole night phase aloud. *(For fun — built for friends who don't play in English.)*
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=A855F7)
