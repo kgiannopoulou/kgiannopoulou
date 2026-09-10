@@ -31,12 +31,9 @@ Community hub for Patras, Greece — local news, live road reports, events, and 
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=A855F7)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=A855F7)
 
-**[🛒 Full-Stack E-Commerce Platform](https://github.com/kgiannopoulou/fullstack-ecommerce)**
-End-to-end e-commerce app — Stripe checkout, JWT auth, and an admin panel, built on Next.js and Express.
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=A855F7)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=A855F7)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=A855F7)
-![Stripe](https://img.shields.io/badge/-Stripe-000000?style=flat-square&logo=stripe&logoColor=A855F7)
+**[☎️ Internet Support IVR](https://github.com/kgiannopoulou/internet-support-ivr)**
+Phone IVR for ISP support that actually resolves issues — LED-based diagnosis, guided reboots, and escalation only when a fix truly can't be self-served.
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=A855F7)
 
 **[📶 WiFi Troubleshooter](https://github.com/kgiannopoulou/wifi-troubleshooter)**
 Guided WiFi diagnostic tool built from real ISP support experience. The branching question tree lives in PostgreSQL and is fully editable via an admin panel — not hard-coded.
@@ -44,19 +41,22 @@ Guided WiFi diagnostic tool built from real ISP support experience. The branchin
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=A855F7)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=A855F7)
 
-**[☎️ Internet Support IVR](https://github.com/kgiannopoulou/internet-support-ivr)**
-Phone IVR for ISP support that actually resolves issues — LED-based diagnosis, guided reboots, and escalation only when a fix truly can't be self-served.
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=A855F7)
+**[🐺 One Night Ultimate Werewolf (Greek)](https://github.com/kgiannopoulou/One-Night-Ultimate-Werewolf-Greek-)**
+A Greek-language companion app for the party game — pass-and-play with a Greek narrator that runs the whole night phase aloud. *(For fun — built for friends who don't play in English.)*
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=A855F7)
+
+**[🛒 Full-Stack E-Commerce Platform](https://github.com/kgiannopoulou/fullstack-ecommerce)**
+End-to-end e-commerce app — Stripe checkout, JWT auth, and an admin panel, built on Next.js and Express.
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=A855F7)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=A855F7)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=A855F7)
+![Stripe](https://img.shields.io/badge/-Stripe-000000?style=flat-square&logo=stripe&logoColor=A855F7)
 
 **[🌐 Personal Website](https://kgiannopoulou.github.io/website-portfolio/)**
 Responsive personal portfolio site, designed, built, and deployed from scratch — with SEO tuning for better search visibility.
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=A855F7)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=A855F7)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=A855F7)
-
-**[🐺 One Night Ultimate Werewolf (Greek)](https://github.com/kgiannopoulou/One-Night-Ultimate-Werewolf-Greek-)**
-A Greek-language companion app for the party game — pass-and-play with a Greek narrator that runs the whole night phase aloud. *(For fun — built for friends who don't play in English.)*
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=A855F7)
 
 <br>
 
