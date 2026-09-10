@@ -25,6 +25,12 @@ Full-stack developer working with **Next.js, TypeScript, Express, and PostgreSQL
 
 ### 🟣 Projects
 
+**[🎭 Patra Sfyzei](https://github.com/kgiannopoulou/patra-sfyzei)**
+Community hub for Patras, Greece — local news, live road reports, events, and a business directory, all open for visitors to contribute to, with a carnival-inspired UI.
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=A855F7)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=A855F7)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=A855F7)
+
 **[🛒 Full-Stack E-Commerce Platform](https://github.com/kgiannopoulou/fullstack-ecommerce)**
 End-to-end e-commerce app — Stripe checkout, JWT auth, and an admin panel, built on Next.js and Express.
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=A855F7)
