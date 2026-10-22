@@ -73,11 +73,4 @@ Also: [websec-scanner](https://github.com/kgiannopoulou/websec-scanner) · [Port
 - **[Threat-modelling an industrial water-tank process](https://github.com/kgiannopoulou/ot-ics-cybersecurity-lab/blob/main/docs/threat-model.md)**: Modbus has no authentication, so what actually protects the process?
 - **[Design decisions for a passive IoT monitor](https://github.com/kgiannopoulou/iot-security-monitor/blob/main/docs/design-decisions.md)**: per-device baselines, MAC keys, and why it never sends a packet
 
-## 🔧 How I work
 
-Every serious project here has automated tests and CI. Each README covers the architecture, the design
-decisions and trade-offs, failure scenarios, and honest limitations. Simulated data is labelled as
-simulated, and benchmarks say what machine they ran on. Right now I'm going deeper on existing systems
-(load tests, observability, deployment) rather than starting new ones.
-
-<sub>Smaller and older experiments (Java games, early web projects) are archived. They're still public, just not the focus.</sub>
