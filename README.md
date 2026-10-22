@@ -1,69 +1,83 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Next.js+%7C+TypeScript+%7C+PostgreSQL;Turning+real+problems+into+software" alt="Typing SVG" />
-
-</div>
-
 # Hi, I'm Konstantina 👋
 
-Full-stack developer working with **Next.js, TypeScript, Express, and PostgreSQL**. I came into software from ISP technical support — I like building tools that solve the kind of real, messy problems I used to troubleshoot by hand.
+**Junior software engineer** (BSc Computer Science) building backend systems, data/ML pipelines and
+security tooling, with tests, CI and the reasoning written down.
 
-<br>
+- 🎯 **Looking for:** graduate / junior roles in **software engineering**, **data & AI** or **cybersecurity**, based in Athens (or Thessaloniki), Greece
+- 🛠️ **Core stack:** TypeScript · Node.js / Express · Python · PostgreSQL · React / Next.js · Docker · GitHub Actions
+- 🔍 **Also comfortable with:** Kafka · Spark · scikit-learn / XGBoost · Redis · Laravel · Suricata / Wazuh · Modbus/TCP
+- 📞 Before software I was in ISP technical support. That's where I learned to debug messy real-world systems.
 
-### 🟣 Stack
+[Portfolio](https://kgiannopoulou.github.io/website-portfolio/) ·
+[LinkedIn](https://www.linkedin.com/in/konstantina-giannopoulou-464668281) ·
+[CV (PDF)](https://kgiannopoulou.github.io/website-portfolio/images/my-cv.pdf)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=A855F7)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=A855F7)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=A855F7)
-![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=A855F7)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=A855F7)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=A855F7)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=A855F7)
-![Stripe](https://img.shields.io/badge/Stripe-000000?style=for-the-badge&logo=stripe&logoColor=A855F7)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=A855F7)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=A855F7)
+---
 
-<br>
+## ⭐ Featured projects
 
-### 🟣 Projects
+| Project | What it is | Evidence |
+|---|---|---|
+| **[Fireline — Incident Response Platform](https://github.com/kgiannopoulou/incident-response-platform)** *(flagship)* | PagerDuty-style platform: alert ingestion and deduplication, an incident state machine, escalations, real-time updates over SSE, and an AI investigator that cites its evidence | 367 tests · 93% coverage · ~340 alerts/s per process · threat model · v1.0.0 |
+| **[Real-Time Fraud Detection](https://github.com/kgiannopoulou/real-time-fraud-detection-platform)** | Kafka → Spark Structured Streaming → XGBoost from an MLflow registry, with SHAP explanations, Airflow retraining and drift monitoring | PR-AUC 0.795 · ~450 tx/s on a laptop · p95 4.2 s · 13-service `docker compose up` |
+| **[OT/ICS Cybersecurity Lab](https://github.com/kgiannopoulou/ot-ics-cybersecurity-lab)** | Simulated PLC water-tank process over Modbus/TCP, IT/DMZ/OT zones, Suricata + Wazuh detections, and red/blue validation | 13 allow-list IDS rules · 0 false positives on the baseline · IEC 62443 / ATT&CK for ICS |
+| **[IoT Security Monitor](https://github.com/kgiannopoulou/iot-security-monitor)** | Passive IoT/OT network monitor: device inventory, per-device baselines, MQTT/Modbus decoding, SOC triage dashboard | 163 tests · ATT&CK mapping · ECS/CEF/syslog SIEM output |
+| **[Full-Stack E-Commerce](https://github.com/kgiannopoulou/fullstack-ecommerce)** | Next.js + Express/TypeScript + PostgreSQL + Stripe. Stock can't be oversold, and a payment can't be processed twice | 62 race/replay tests against real Postgres · CI · Docker |
+| **[Road Network Simulator](https://github.com/kgiannopoulou/road-network-simulator)** | City traffic and self-driving-car lab in plain JS: physics, sensors, a neural network + genetic algorithm, A* routing | [▶ Live demo](https://kgiannopoulou.github.io/road-network-simulator/) · 180 tests · zero dependencies |
 
-**[🏠 Personal Home Helper](https://github.com/kgiannopoulou/personal-home-helper)**
-All-in-one life manager app: food & water, running coach, kitchen inventory, shopping, budget, chores, planner and weather on one home screen that connects them, with predictions learned from your own data (shopping day, budget forecast, chores that adapt) and 199 tests.
-![React Native](https://img.shields.io/badge/-React_Native-000000?style=flat-square&logo=react&logoColor=A855F7)
-![Expo](https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=expo&logoColor=A855F7)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=A855F7)
-![Jest](https://img.shields.io/badge/-Jest-000000?style=flat-square&logo=jest&logoColor=A855F7)
+## 🧭 Pick a path
 
-**[🛒 Full-Stack E-Commerce Platform](https://github.com/kgiannopoulou/fullstack-ecommerce)**
-End-to-end e-commerce app — Stripe checkout, JWT auth, and an admin panel, built on Next.js and Express.
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=A855F7)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=A855F7)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=A855F7)
-![Stripe](https://img.shields.io/badge/-Stripe-000000?style=flat-square&logo=stripe&logoColor=A855F7)
+<table>
+<tr>
+<th>💻 Software Engineering</th>
+<th>📊 Data &amp; AI</th>
+<th>🛡️ Cybersecurity</th>
+</tr>
+<tr valign="top">
+<td>
 
-**[📶 WiFi Troubleshooter](https://github.com/kgiannopoulou/wifi-troubleshooter)**
-Guided WiFi diagnostic tool built from real ISP support experience. The branching question tree lives in PostgreSQL and is fully editable via an admin panel — not hard-coded.
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=A855F7)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=A855F7)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=A855F7)
+**[Fireline](https://github.com/kgiannopoulou/incident-response-platform)**: concurrency-safe dedup, Postgres triggers, BullMQ workers, SSE, OpenAPI
 
-**[☎️ Internet Support IVR](https://github.com/kgiannopoulou/internet-support-ivr)**
-Phone IVR for ISP support that actually resolves issues — LED-based diagnosis, guided reboots, and escalation only when a fix truly can't be self-served.
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=A855F7)
+**[E-Commerce](https://github.com/kgiannopoulou/fullstack-ecommerce)**: transactional stock reservation, idempotent Stripe webhooks
 
-**[🎭 Patra Sfyzei](https://github.com/kgiannopoulou/patra-sfyzei)**
-Community hub for Patras, Greece — local news, live road reports, events, and a business directory, all open for visitors to contribute to, with a carnival-inspired UI.
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=A855F7)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=A855F7)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=A855F7)
+**[Home Helper API](https://github.com/kgiannopoulou/home-helper-api)**: Laravel/MySQL sync API, 294 tests, OpenAPI, ER diagrams
 
-**[🐺 One Night Ultimate Werewolf (Greek)](https://github.com/kgiannopoulou/One-Night-Ultimate-Werewolf-Greek-)**
-A Greek-language companion app for the party game — pass-and-play with a Greek narrator that runs the whole night phase aloud. *(For fun — built for friends who don't play in English.)*
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=A855F7)
+</td>
+<td>
 
-<br>
+**[Fraud Detection](https://github.com/kgiannopoulou/real-time-fraud-detection-platform)**: streaming features, model comparison on PR-AUC, MLflow, drift (PSI)
 
-### 🟣 Reach me
+**[Road Network Simulator](https://github.com/kgiannopoulou/road-network-simulator)**: neural network and genetic algorithm written from scratch, reproducible training
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A855F7)](https://www.linkedin.com/in/konstantina-giannopoulou-464668281)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=A855F7)](https://kgiannopoulou.github.io/website-portfolio/)
+**[Personal Home Helper](https://github.com/kgiannopoulou/personal-home-helper)**: React Native app with an AI hub (Claude API) and on-device predictions
+
+</td>
+<td>
+
+**[OT/ICS Lab](https://github.com/kgiannopoulou/ot-ics-cybersecurity-lab)**: segmentation, Modbus detection, attack → detect → block validation
+
+**[IoT Security Monitor](https://github.com/kgiannopoulou/iot-security-monitor)**: passive detection engine, baselines, SOC analyst view
+
+**[Smart Factory Threat Assessment](https://github.com/kgiannopoulou/smart-factory-threat-assessment)**: STRIDE threat model and OT risk assessment
+
+Also: [websec-scanner](https://github.com/kgiannopoulou/websec-scanner) · [PortSwigger write-ups](https://github.com/kgiannopoulou/PortSwigger-Web-Security-Academy)
+
+</td>
+</tr>
+</table>
+
+## 📝 Technical write-ups
+
+- **[Alert deduplication under concurrency](https://github.com/kgiannopoulou/incident-response-platform#deduplication-strategy)**: why "one open incident per key" is a unique index, not application logic, and the bug a load test found
+- **[Event time in a real-time fraud pipeline](https://github.com/kgiannopoulou/real-time-fraud-detection-platform/blob/main/docs/event-time.md)**: watermarks, late events and avoiding train/serve skew with Kafka and Spark
+- **[Threat-modelling an industrial water-tank process](https://github.com/kgiannopoulou/ot-ics-cybersecurity-lab/blob/main/docs/threat-model.md)**: Modbus has no authentication, so what actually protects the process?
+- **[Design decisions for a passive IoT monitor](https://github.com/kgiannopoulou/iot-security-monitor/blob/main/docs/design-decisions.md)**: per-device baselines, MAC keys, and why it never sends a packet
+
+## 🔧 How I work
+
+Every serious project here has automated tests and CI. Each README covers the architecture, the design
+decisions and trade-offs, failure scenarios, and honest limitations. Simulated data is labelled as
+simulated, and benchmarks say what machine they ran on. Right now I'm going deeper on existing systems
+(load tests, observability, deployment) rather than starting new ones.
+
+<sub>Smaller and older experiments (Java games, early web projects) are archived. They're still public, just not the focus.</sub>
