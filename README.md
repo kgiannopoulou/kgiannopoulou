@@ -3,14 +3,14 @@
 **Junior software engineer** (BSc Computer Science) building backend systems, data/ML pipelines and
 security tooling, with tests, CI and the reasoning written down.
 
-- 🎯 **Looking for:** graduate / junior roles in **software engineering**, **data & AI** or **cybersecurity**, based in Athens (or Thessaloniki), Greece
 - 🛠️ **Core stack:** TypeScript · Node.js / Express · Python · PostgreSQL · React / Next.js · Docker · GitHub Actions
 - 🔍 **Also comfortable with:** Kafka · Spark · scikit-learn / XGBoost · Redis · Laravel · Suricata / Wazuh · Modbus/TCP
-- 📞 Before software I was in ISP technical support. That's where I learned to debug messy real-world systems.
+
 
 [Portfolio](https://kgiannopoulou.github.io/website-portfolio/) ·
 [LinkedIn](https://www.linkedin.com/in/konstantina-giannopoulou-464668281) ·
-[CV (PDF)](https://kgiannopoulou.github.io/website-portfolio/images/my-cv.pdf)
+[CV (PDF)](https://github.com/user-attachments/files/33810795/myCV.pdf) .
+
 
 ---
 
